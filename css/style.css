@@ -1,6 +1,5 @@
 body {
 	margin-top: 111px;
-	/* background-color: salmon; */
 }
 
 .bar-sony {
@@ -37,7 +36,7 @@ body {
 }
 
 .bg-jumbo {
-	padding: 200px 0 50px;
+	padding: 350px 0 50px;
 	background-image: url('../img/jumbo-bg.png');
 	background-size: cover;
 	background-position: center;
@@ -84,4 +83,26 @@ body {
 
 .periferiche{
     padding-left: 50px;
+}
+
+.bg-it-take-two {
+	padding: 200px 0 50px;
+	background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+.uscite{
+    background-color: #1F1F1F;
+}
+
+.gioco{
+    padding: 3px;
+    border: 3px solid transparent;
+    border-radius: 3rem;
+    overflow: hidden;
+}
+
+.container_esplora{
+    margin-top: 50px;
 }
