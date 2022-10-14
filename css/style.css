@@ -64,3 +64,12 @@ body {
 .card-game img {
 	border-radius: calc(1rem - 6px);
 }
+
+.accedi{
+    margin-right: 1rem;
+    border-radius: 3rem;
+}
+
+.acquista{
+    background-color: #CD3D0F;
+}
