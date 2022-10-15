@@ -86,12 +86,8 @@ footer{
     border-radius: 3rem
 }
 
-.periferiche{
-    padding-left: 50px;
-}
-
 .bg-it-take-two {
-	margin-top: 50px;
+	margin-top: 20px;
 	padding: 200px 0 50px;
 	background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
 	background-size: cover;
